@@ -1,0 +1,19 @@
+
+body {
+    background-color: white;
+    background-image: url("images/lrsc_pool.jpg");   
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+h1, p {
+    color: black;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+#slogan {
+	font-weight: bold;
+	font-style: italic;
+	font-family: Arial, sans-serif;
+}
