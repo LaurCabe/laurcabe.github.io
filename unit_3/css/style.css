@@ -5,10 +5,17 @@ body {
     background-attachment: fixed;
 }
 
-h1, p {
-    color: black;
-    text-align: center;
-    font-family: Arial, sans-serif;
+h1 {
+    font-family: arial, sans serif;
+    font-size: 24px;
+} 
+
+p {
+    font-family: georgia, serif;
+    font-size: 16px;
+    line-height: 1.5em;
+    margin: 2em;
+}
 }
 #slogan {
 	font-weight: bold;
